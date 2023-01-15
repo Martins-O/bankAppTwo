@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class HashTest {
 	public static void main(String[] args) {
-		Set<String> set = new HashSet<String>();
+		Set<String> set = new HashSet<>();
 
 		set.add("Martins");
 		set.add("John");

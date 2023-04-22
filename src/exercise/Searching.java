@@ -13,7 +13,7 @@ public class Searching {
 
     public static void main(String[] args) {
         int[] list = {23, 45, 66, 87, 100, 109};
-        int search = 87;
+        int search = 7;
         System.out.println(getSearch(list, search));
     }
 }

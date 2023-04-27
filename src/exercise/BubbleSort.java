@@ -3,7 +3,6 @@ package exercise;
 import java.util.Arrays;
 
 public class BubbleSort {
-
     public static void getSort(int[] list){
         boolean swapped = false;
         for (int i = 0; i < list.length; i++) {

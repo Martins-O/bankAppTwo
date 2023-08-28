@@ -1,11 +1,5 @@
 package exercise;
 
-import org.junit.jupiter.api.Test;
-
-import java.time.LocalDate;
-
-import static org.junit.jupiter.api.Assertions.*;
-
 class AgeTest {
     private final Age age = new Age();
 
